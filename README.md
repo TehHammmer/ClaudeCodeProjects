@@ -12,15 +12,7 @@ Small projects built with Claude Code.
 
 A [Rainmeter](https://www.rainmeter.net/) gadget that shows the IPv4 DNS servers configured on up to four network adapters. It's built as an add-on for [ModernGadgets](https://github.com/raiguard/ModernGadgets) by raiguard, so it uses the suite's own stylesheet and follows your ModernGadgets colours, fonts, scale and background settings.
 
-```
- (globe)  DNS Meter
- Wi-Fi (active)
- Primary:             192.168.2.50
- Secondary:                   None
- Ethernet 2
- Primary:                  8.8.8.8
- Secondary:                   None
-```
+![DNS Meter showing the DNS servers for Wi-Fi and Ethernet 2](docs/dns-meter.png)
 
 ### Features
 
