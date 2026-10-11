@@ -1,0 +1,27 @@
+# --- Windows ---
+Thumbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# --- macOS ---
+.DS_Store
+._*
+
+# --- Editors / IDEs ---
+.vscode/
+.idea/
+*.swp
+*~
+
+# --- Rainmeter ---
+# Logs and backup copies made while editing skins
+Rainmeter.log
+*.bak
+*.old
+* - Copy.*
+* - Copy (*).*
+
+# --- Claude Code local settings ---
+.claude/settings.local.json
